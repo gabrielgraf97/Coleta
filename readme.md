@@ -27,10 +27,10 @@
 <details>
   <summary>See</summary>
 
-![Frontend1](public/extras-aula-1/github/home-desktop.png)
-![Frontend2](public/extras-aula-1/github/cadastro-desktop.png)
-![Frontend3](public/extras-aula-1/github/search-desktop.png)
-![Frontend4](public/extras-aula-1/github/result-desktop.png)
+![Frontend1](./public/extras-aula-1/github/home-desktop.png)
+![Frontend2](./public/extras-aula-1/github/cadastro-desktop.png)
+![Frontend3](./public/extras-aula-1/github/search-desktop.png)
+![Frontend4](./public/extras-aula-1/github/result-desktop.png)
 
 
 </details>
