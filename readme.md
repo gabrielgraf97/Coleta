@@ -27,10 +27,10 @@
 <details>
   <summary>See</summary>
 
-![Frontend1](./public/extras-aula-1/github/home-desktop.png)
-![Frontend2](./public/extras-aula-1/github/cadastro-desktop.png)
-![Frontend3](./public/extras-aula-1/github/search-desktop.png)
-![Frontend4](./public/extras-aula-1/github/result-desktop.png)
+![Frontend1](./public/extras-aula-1/github/home-desktop.PNG)
+![Frontend2](./public/extras-aula-1/github/cadastro-desktop.PNG)
+![Frontend3](./public/extras-aula-1/github/search-desktop.PNG)
+![Frontend4](./public/extras-aula-1/github/result-desktop.PNG)
 
 
 </details>
@@ -51,10 +51,10 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gabrielgraf97/ecoleta/tree/master/backend
+$ git clone https://github.com/gabrielgraf97/ecoleta/tree/master
 
 # Go into the repository
-$ cd ecoleta/backend
+$ cd ecoleta
 
 # Install dependencies for the backend
 $ yarn
@@ -67,10 +67,10 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gabrielgraf97/ecoleta/tree/master/web
+$ git clone https://github.com/gabrielgraf97/ecoleta/tree/master
 
 # Go into the repository
-$ cd ecoleta/web
+$ cd ecoleta
 
 # Install dependencies for the frontend
 $ yarn
